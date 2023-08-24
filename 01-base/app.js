@@ -44,7 +44,7 @@ let action = '+'
 // console.log(resultElement.textContent)
 // console.log(input1.value - input2.value)
 
-console.log(resultElement.textContent)
+// console.log(resultElement.textContent)
 
 // console.log(typeof sum)
 
@@ -112,3 +112,7 @@ submitBtn.onclick = function () {
   const result = computeNumbersWithAction(input1, input2, action)
   printResult(result)
 }
+
+
+
+
